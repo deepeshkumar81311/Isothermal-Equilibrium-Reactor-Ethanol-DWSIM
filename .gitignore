@@ -1,0 +1,9 @@
+# DWSIM / temporary files
+*.bak
+*.tmp
+*.autosave
+~*
+.DS_Store
+
+# Operating-system files
+Thumbs.db

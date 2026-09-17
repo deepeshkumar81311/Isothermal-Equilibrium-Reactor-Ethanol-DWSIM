@@ -1,0 +1,10 @@
+Project: Isothermal Equilibrium Reactor Simulation – Ethanol Production
+Reaction: C2H4(g) + H2O(g) <=> C2H5OH(g)
+Temperature: 145 °C (418.15 K)
+Pressure: 1 bar
+Feed: 50 mol/s ethylene + 50 mol/s water
+Reactor: Isothermal Equilibrium Reactor
+Equilibrium constant: K = 0.1443
+Reported DWSIM vapor flow: 96.8065 mol/s
+Reported vapor mole fractions: C2H4 = 0.483506, H2O = 0.483506, C2H5OH = 0.0329884
+Reported ethylene conversion: approximately 6.38%
