@@ -76,3 +76,8 @@ Open the `.dwxmz` file in DWSIM, verify the component list, reaction definition 
 - Gas-phase reaction equilibrium
 - Material-balance and conversion calculations
 - Comparison between hand calculations and process-simulation results
+
+
+## Author
+- Deepesh kumar
+- 724CH1008
